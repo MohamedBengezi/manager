@@ -1,0 +1,13 @@
+dependencies: \
+  /Users/mohamed/React/manager/node_modules/react-native/Libraries/Text/TextInput/Singleline/RCTUITextField.m \
+  /Users/mohamed/React/manager/node_modules/react-native/Libraries/Text/TextInput/Singleline/RCTUITextField.h \
+  /Users/mohamed/React/manager/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/mohamed/React/manager/ios/build/manager/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/mohamed/React/manager/ios/build/manager/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/mohamed/React/manager/ios/build/manager/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/mohamed/React/manager/ios/build/manager/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/mohamed/React/manager/ios/build/manager/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/mohamed/React/manager/ios/build/manager/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mohamed/React/manager/ios/build/manager/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/mohamed/React/manager/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegateAdapter.h \
+  /Users/mohamed/React/manager/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h
